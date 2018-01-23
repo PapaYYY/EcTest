@@ -1,0 +1,13 @@
+#folders
+.allure/
+.settings/
+target/
+test-output/
+allure-results/
+build/
+lib/
+
+#files
+.classpath
+.project
+.debug
